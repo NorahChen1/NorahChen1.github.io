@@ -1,6 +1,7 @@
 ---
-title: "Final project"
+title: "A Comprehensive Evaluation of the Economic Vitality in Chinese Cities: Case Studies on Beijing and Weihai"
 format: html
+self-contained: true
 editor: visual
 author: Fan Liu, Jingxuan Wang, Nuo Chen
 ---
@@ -472,10 +473,6 @@ Marrone, P., & Montella, I. (2022). An experimentation on the limits and potenti
  
 
 She, Q., Cao, S., Zhang, S., Zhang, J., Zhu, H., Bao, J., Meng, X., Liu, M., & Liu, Y. (2021). The impacts of comprehensive urbanization on PM2.5 concentrations in the Yangtze River Delta, China. *Ecological Indicators*, *132*, 108337. https://doi.org/10.1016/j.ecolind.2021.108337
-
- 
-
-Wang, Y. Q., Zhang, X. Y., & Draxler, R. R. (2009). TrajStat: GIS-based software that uses various trajectory statistical analysis methods to identify potential sources from long-term air pollution measurement data. *Environmental Modelling & Software*, *24*(8), 938--939. https://doi.org/10.1016/j.envsoft.2009.01.004
 
  
 
