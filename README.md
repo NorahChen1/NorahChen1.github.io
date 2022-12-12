@@ -1,6 +1,6 @@
 # Final Project
 
-YOu can find the full analysis on the [project website](https://norahchen1.github.io/final_project.html).
+YOu can find the full analysis on the [project website](https://norahchen1.github.io/).
 
 ## Introduction
 -------
