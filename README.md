@@ -1,5 +1,7 @@
 # Final Project
 
+YOu can find the full analysis on the [project website](https://norahchen1.github.io/final_project.html).
+
 ## Introduction
 -------
 Since Chinese reform and opening, the Chinese economy has developed rapidly. However, due to the regional unbalanced economic developments, the economic vitality (EV) has a huge gap between different cities. At the same time, due to economic transformation and industrial structure adjustment, Chinese provinces and cities face different economic policy challenges. As a result, an objective and comprehensive evaluation of the regional economic vitality and exploring the reasons for such differences to achieve sustainable development of regional coordination is of great significance. In this research, we want to study China’s city-level economic vitality index. The regional economic dynamic is an important indicator to evaluate the economic development in China. It is a helpful indicator for understanding the regional economic development status quo and future economic potential. However, there is no single standard and definition of economic vitality. Due to the complexity of indicators and external influencing factors, it is difficult to use a single factor to estimate economic vitality. Therefore, in this research, we want to use data analysis skills to build a model for economic vitality estimation and a reference for the following study. Besides, we work on two representative cities, Beijing and Weihai, and try to give policy alternatives to foster the development of EV.
